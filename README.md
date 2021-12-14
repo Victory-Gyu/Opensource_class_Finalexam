@@ -1,7 +1,10 @@
 # Opensource_class_Finalexam
 
 
-#첫번째 
+#자료는 https://drive.google.com/drive/folders/106h5of1TEoCyigCLlohVC5XkX7bent_P?usp=sharing
+
+
+#첫번째 코드파일
 
 '''
 코로나 확진자수를 연도별로 통계낸 코드 (2021년 12월 12일 기준)
@@ -175,3 +178,5 @@ graph_1.plot(kind='bar', x='number', y='daytotal', color='blue')
 graph_2.plot(kind='bar', x='number', y='daytotal', color='red')
 graph_3.plot(kind='bar', x='number', y='daytotal', color='green')
 graph_4.plot(kind='bar', x='number', y='daytotal', color='purple')
+
+
